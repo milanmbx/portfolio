@@ -1,0 +1,28 @@
+body {
+    background: grey;
+    margin-top: 7%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+a {
+    color: orangered;
+}
+
+nav a {
+    color: green;
+    border: 3px solid brown;
+    padding: 3px 6px;
+    margin-right: 20px;
+    background: yellow
+}
+
+.center {
+    text-align: center;
+}
+
+.lead {
+    font-style: italic;
+    font-weight: bold;
+    color: lightseagreen;
+}
